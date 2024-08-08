@@ -14,8 +14,8 @@ const Header: React.FC = () => {
   const logoWhite = '/logoWhite.png';
   const logoBlack = '/logoBlack.png';
   const navLinks = [
-    { label: 'Blog', url: '/' },
-    { label: 'Pricing', url: '/' },
+    { label: 'Resources', url: '/' },
+    { label: 'Help', url: '/' },
   ];
   const actionButtons = [
     { label: 'Log in', url: '/' },
